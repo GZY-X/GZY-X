@@ -29,7 +29,7 @@
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │  ROLE     Developer / 开发者                                │
-│  STYLE    Clean code · Fast iteration · Shipable tools      │
+│  STYLE    Clean code · Fast iteration · Shippable tools     │
 │  FOCUS    Automation · Productivity · Reliable systems      │
 │  MOTTO    少说多做 · Build. Automate. Ship.                 │
 └─────────────────────────────────────────────────────────────┘
